@@ -3,8 +3,11 @@ Welcome to the edeXa ERC-20 Token repository! This repository contains the smart
 
 # ERC-20 Token Details
 Token Name: edeXa Token
+
 Token Symbol: EDX
+
 Total Supply: 10,000,000,000 EDX
+
 Decimals: 18
 
 # Smart Contract
